@@ -1,0 +1,4 @@
+{ "version": 2, "advisories": [
+  { "id": "ADV-1001", "region": "EU-EAST", "risk_level": "elevated", "alt_band": "FL200-FL300", "issued_at": "2026-11-20T10:00:00Z" },
+  { "id": "ADV-1002", "region": "ME-NORTH", "risk_level": "high", "alt_band": "SFC-FL100", "issued_at": "2026-11-20T10:02:00Z" }
+] }

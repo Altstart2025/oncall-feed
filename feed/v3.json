@@ -1,0 +1,3 @@
+{ "version": 3, "advisories": [
+  { "id": "ADV-1003", "region": "EU-EAST", "severity": { "level": "high" }, "altitude": { "from": 200, "to": 300, "unit": "FL" }, "issued_at": "2026-11-20T10:04:00Z" }
+] }
